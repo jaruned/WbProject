@@ -19,6 +19,8 @@ app.get('/contacts',(req,res) => {
 
 
 /// TODO: Develop POST /contacts
+//Sung and Thom i cant add to master E-dok fuck off  
+
 
 
 
